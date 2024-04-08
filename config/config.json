@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "ayush",
+    "password": "ayush@123",
+    "database": "mypro",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "ayush",
+    "password": "ayush@123",
+    "database": "mypro",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "ayush",
+    "password": "ayush@123",
+    "database": "mypro",
+    "host": "localhost",
+    "dialect": "mysql"
+  }
+}
