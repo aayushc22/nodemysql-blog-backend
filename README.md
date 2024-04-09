@@ -58,6 +58,6 @@ npm install bcryptjs@2.4.3 body-parser@1.20.2 dotenv@16.4.5 express@4.19.2 faste
 
 
 
-To install Sequelize and its dependencies, you can use the following npm 
+To install Sequelize and its dependencies, you can use the following npm , 
 npm install sequelize@6.37.2 mysql2@3.9.3
 
